@@ -17,4 +17,8 @@ public class Practice3 {
 		System.out.println("stashing practice 4");
 	}
 	
+
+	public void stash5() {
+		System.out.println("stashing practice 5");
+	}
 }
