@@ -6,4 +6,13 @@ public class Practice3 {
 		System.out.println("GetHub Lecture 3...");
 		
 	}
+	public void stash2() {
+		System.out.println("stashing practice 2");
+	}
+	
+	public void stash3() {
+		System.out.println("stashing practice 3");
+	}
+	
+	
 }
