@@ -13,6 +13,8 @@ public class Practice3 {
 	public void stash3() {
 		System.out.println("stashing practice 3");
 	}
-	
+	public void stash4() {
+		System.out.println("stashing practice 4");
+	}
 	
 }
