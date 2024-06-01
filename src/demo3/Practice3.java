@@ -16,7 +16,6 @@ public class Practice3 {
 	public void stash4() {
 		System.out.println("stashing practice 4");
 	}
-	
 
 	public void stash5() {
 		System.out.println("stashing practice 5");
